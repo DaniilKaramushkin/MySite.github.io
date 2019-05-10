@@ -1,0 +1,27 @@
+body{background-image: url(Картинки/Градиент2.jpg);
+background-repeat: no-repeat; }
+h1 {
+color: black;
+font-weight: bold;
+text-align: center;
+}
+h2 {
+color: rgb(30 144 255);
+font-weight: bold;
+text-align: center;
+}
+ul {
+color: green;
+font-weight: lighter;
+text-align: left;
+}
+ol {
+color: grey;
+font-weight: lighter;
+text-align: left;
+}
+p {
+color: red;
+font-weight: lighter;
+text-align: center;
+}
